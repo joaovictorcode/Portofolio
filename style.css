@@ -24,9 +24,9 @@ body{
 	color: #7f8c8d;
 }
 .img-profile{
-	width: 150px;
-	height: 150px;
-	border-radius: 50%;
+    width: 400px;
+    height: 300px;
+    border-radius: 50%;
 }
 .img-profile-box{
 	display: flex;
